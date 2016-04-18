@@ -1,0 +1,16 @@
+{
+  "name": "TestProject1",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.18.1",
+    "react-native-material-button": "0.0.4",
+    "react-native-navbar": "^1.1.7",
+    "react-native-relative-units": "0.0.1",
+    "react-redux": "^4.0.6",
+    "redux": "^3.0.6"
+  }
+}
